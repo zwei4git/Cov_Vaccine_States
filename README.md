@@ -3,7 +3,7 @@ Chasing bar chart of the vaccination per hundred population by states.
 
 - Top 15 states displayed
 - People have received at least one dose of vaccine
-- Only include 50 U.S. States
+- Only includes 50 U.S. States
 - Jan 16, 17, 18 and Feb 15 of 2021 were been removed due to missing collection
 - The imputation was set to use the latest available value if missing, although no missing values yet after removing the above mentioned three dates
 
